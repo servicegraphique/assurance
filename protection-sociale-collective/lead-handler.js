@@ -27,7 +27,7 @@ var UBE_CONFIG = {
   formId: 'ADW_LP_PROTECTION_SOCIALE_COLLECTIVE', // a confirmer/enregistrer cote CRM
   formName: 'Protection-Sociale-Collective-Form',
   source: 'LP Protection Sociale Collective',   // source de secours sans campagne
-  microField: 'reponse_3',  // champ radio auto-entrepreneur ('' = aucun)
+  microField: '',           // champ radio auto-entrepreneur ('' = aucun)
   publicLandingPath: '',
   debug: false
 };
