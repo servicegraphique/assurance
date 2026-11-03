@@ -16,5 +16,5 @@ www.googletagmanager.com, www.hellolead.pro, mc.hellolead.pro, script.google.com
 1. Parcours complet du formulaire (toutes les étapes, retour « Précédent », champs obligatoires, erreurs).
 2. Test OTP SMS avec un numéro de test.
 3. Vérification de la réception du lead en CRM (`ADW_LP_PROTECTION_SOCIALE_COLLECTIVE`) / Google Sheets.
-4. Tag Assistant : déclenchement GTM et des événements `formulaire_lead` / `formulaire_micro_entrepreneur`.
+4. Tag Assistant : déclenchement GTM et de l'événement `formulaire_lead`.
 5. Lighthouse mobile : performance et accessibilité.
